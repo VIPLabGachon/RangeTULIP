@@ -8,16 +8,17 @@ https://github.com/ethz-asl/TULIP
 # KITTI dataset download
 https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d
 
-A
+TBD
 -------------
 
-##### i
+##### TBD
 - 
-##### 환 
+##### TBD
 - 
-##### g
+##### TBD
 - 
-##### g 
+##### TBD
 - 
-##### t  
+##### TBD
+- 
  
